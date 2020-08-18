@@ -1,5 +1,1 @@
-www.megadeveloper.xyz
-
-<?php
-echo "test";
-?>
+{"wb":"www.megadeveloper.xyz"}
